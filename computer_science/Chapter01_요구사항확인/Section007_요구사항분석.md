@@ -29,8 +29,8 @@
 
 - 작성 지침 : 1. 자료 흐름은 처리를 거쳐 변환될 때마다 새로운 이름을 부여한다. <br>
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  2. 어떤 처리가 출력 자료를 산출하기 위해서는 반드시 입력 자료가 발생해야 한다. <br>
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 3. 상위 단계의 처리와 하위 자료 흐름도의 자료 흐름은 서로 일치되어야 한다. <br>
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 4. 입력 화살표가 있다고 하여 반드시 출력 화살표가 있어야 하는 것은 아니다.
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  3. 상위 단계의 처리와 하위 자료 흐름도의 자료 흐름은 서로 일치되어야 한다. <br>
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  4. 입력 화살표가 있다고 하여 반드시 출력 화살표가 있어야 하는 것은 아니다.
 <br><br>
 
 #### 💡 자료 사전
