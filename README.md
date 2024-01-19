@@ -17,6 +17,7 @@
 
 ## 📁 File Structure
 📂computer_science  
-┣ 📂Chapter[Chapter_Num]  
-┃ ┗ 📝Section[Section_Num].md  
+┣ 📂Subject  
+┣ ┗ 📂Chapter[Chapter_Num]  
+┃ ┗ ┗ 📝Section[Section_Num].md  
 ┗ 📝template.md
